@@ -1,0 +1,29 @@
+.footer{
+    padding: 25px 15vw;
+    background: rgb(159, 212, 159);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links a{
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #cbffcb;
+    text-decoration: none;
+    font-weight: 700;
+    margin: 0 20px;
+}
+.website{
+    display: flex;
+    align-items: center;
+}
+.website h3{
+    color: #6c906c;
+    margin-right: 15px;
+    margin-bottom: 0;
+}
+.website a{
+    color: #cbffcb;
+    font-weight: 700;
+    text-shadow: 0 0 1px #000;
+}

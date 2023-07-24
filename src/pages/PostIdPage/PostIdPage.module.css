@@ -1,0 +1,38 @@
+.title{
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.postId{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.postBody{
+    width: 60vw;
+    margin-left: 20vw;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 28px;
+    margin-bottom: 120px;
+}
+.commentsTitle{
+    margin-left: 10vw;
+    margin-bottom: 15px;
+}
+.comment{
+    border: 1px solid #9fd49e;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 12.5vw;
+    width: 50vw;
+    margin-bottom: 15px;
+}
+.commentName{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.commentBody{
+    font-size: 16px;
+    line-height: 24px;
+}
+

@@ -1,0 +1,20 @@
+.header{
+    background: rgb(159, 212, 159);
+    padding: 20px 15vw;
+}
+.header > a{
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none; margin: 0 20px;
+    color: #cbffcb;
+    transition: 0.3s ease;
+}
+.header > a.active{
+    color: #96b496;
+    text-shadow: 0px 0px 1px #000;
+}
+.header > a:hover{
+    color: #96b496;
+    text-shadow: 0px 0px 2px #000;
+}   

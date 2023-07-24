@@ -1,0 +1,31 @@
+.modalWindow{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.344);
+    transform: translate(-50%, -50%) scale(0);
+    transition: 0.4s ease-in-out;
+}
+.modalActive{
+    transform: translate(0%, 0%) scale(100%);
+    background-color: rgba(0, 0, 0, .80);
+}
+.modalBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.modalContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #cbffcb;
+    padding: 25px 15px;
+    min-width: 250px;
+    max-width: 600px;
+    width: 100%;
+    border-radius: 15px;
+}

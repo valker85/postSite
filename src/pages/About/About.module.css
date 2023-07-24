@@ -1,0 +1,17 @@
+.about{
+    height: 81.04667609vh;
+    background: #cbffcb;
+    padding-top: 40px;
+}
+.title{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #6c906c;
+}
+.description{
+    width: 60vw;
+    margin-left: 20vw;
+    line-height: 24px;
+    font-size: 18px;
+    color: #6c906c;
+}
